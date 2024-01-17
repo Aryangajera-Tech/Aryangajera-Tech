@@ -19,9 +19,7 @@
 ## 🤔 Want More Info? 
 - 🎯 Visit my Portfolio site: [aryan-gajera.web.app](https://aryan-gajera.web.app)
 
----
-
-## ⚡ Technologies
+## ⚡Tech Stack
 ![Tech Stack](https://img.shields.io/badge/Mobile-Flutter-02569B?logo=Flutter&style=for-the-badge)
 
 ![Tech Stack](https://img.shields.io/badge/Mobile-Dart-blue?logo=Dart&style=for-the-badge)
