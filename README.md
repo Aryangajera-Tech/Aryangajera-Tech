@@ -30,13 +30,19 @@
 
 
 ## &#x1f4c8; GitHub Stats
+<div align=center>
 
-<a href="https://github.com/Aryangajera-Tech/Aryangajera-Tech">
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryangajera-Tech&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aryangajera-Tech&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aryangajera-Tech&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aryangajera-Tech&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aryangajera-Tech&theme=apprentice&utcOffset=8)
+</div>
+<!-- <a href="https://github.com/Aryangajera-Tech/Aryangajera-Tech">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryangajera-Tech&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/Aryangajera-Tech/Aryangajera-Tech">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aryangajera-Tech&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aryan's GitHub Stats" />
-</a>
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryangajera-Tech&theme=vision_friendly_dark) -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryangajera-Tech&theme=vision_friendly_dark) -->
+
+
 
 
