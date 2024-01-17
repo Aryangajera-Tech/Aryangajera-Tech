@@ -1,17 +1,23 @@
 ![169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f](https://github.com/Aryangajera-Tech/Aryangajera-Tech/assets/104633827/21ee4f87-78be-414f-86ef-e48e284b139d)
 
 <h1> Hello from Aryan Gajera <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="56px"></h1>
+<h3>Computer engineer -- Data Analyst | Flutter & Android Devloper 🤖</h3>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Aryan_Gajera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryan-gajera-583231241/)](https://www.linkedin.com/in/aryan-gajera-583231241/) 
 [![Gmail Badge](https://img.shields.io/badge/-aryangajera7147@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aryangajera7147@gmail.com)](mailto:aryangajera7147@gmail.com)
 
 
+- 🌱 I’m currently trying to learn [Jetpack Compose](https://developer.android.com/jetpack/compose) and [Kotlin Multiplatform Mobile](https://kotlinlang.org/lp/mobile/).
 - 🧑‍💻 Computer Engineering at [Uka Tarsadia University](https://www.utu.ac.in/).
+- 💬 Ask me about CLEAN architecture Android, Flutter and Dart
+- 🔭 I’m currently working on **some of my side projects**
+- 👯 I’m looking to collaborate on **anything free and open source**
+- ⚡ Fun fact: I spend almost 2 hours surfing new things on the internet everyday. I love to keep myself updated!!
 
-- 💬 Ask me about CLEAN architecture, Flutter and Dart
-
+## 🤔 Want More Info? 
+- 🎯 Visit my Portfolio site: [aryan-gajera.web.app](https://aryan-gajera.web.app)
 
 ---
 
@@ -24,10 +30,15 @@
 
 ![Tech Stack](https://img.shields.io/badge/Database-SQL-red?logo=sqlite&style=for-the-badge)
 
-## 🤔 Want More Info? 
-- 🎯 Visit my Portfolio site: [aryan-gajera.web.app](https://aryan-gajera.web.app)
 
+## &#x1f4c8; GitHub Stats
 
+<a href="https://github.com/Aryangajera-Tech/Aryangajera-Tech">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryangajera-Tech&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/Aryangajera-Tech/Aryangajera-Tech">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aryangajera-Tech&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aryan's GitHub Stats" />
+</a>
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryangajera-Tech&theme=vision_friendly_dark) -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryangajera-Tech&theme=vision_friendly_dark)
 
