@@ -1,3 +1,5 @@
+![169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f](https://github.com/Aryangajera-Tech/Aryangajera-Tech/assets/104633827/21ee4f87-78be-414f-86ef-e48e284b139d)
+
 <h1> Hello from Aryan Gajera <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="56px"></h1>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
